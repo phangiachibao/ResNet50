@@ -1,4 +1,4 @@
-# ResNet50\
+# ResNet50
 Residual Network 50 \
 This is a Neural Network with 50 layers.\
 **=> First: Create a folder and name it "dataset", then add your data into this folder**\
